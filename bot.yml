@@ -5,7 +5,7 @@ background: resources/background.png
 config:
   - name: LOG_LEVEL
     friendly_name: TED
-    info: See https://docs.python.org/2/library/logging.html#levels
+    info:
     default: DEBUG
   - name: TED
     friendly_name: TED
