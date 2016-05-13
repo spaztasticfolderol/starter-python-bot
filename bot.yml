@@ -1,14 +1,14 @@
-name: Beepboop Starterbot
-description: A simple Python bot sample for Beep Boop
+name: TED
+description: A friend
 avatar: resources/avatar.png
 background: resources/background.png
 config:
   - name: LOG_LEVEL
-    friendly_name: Severity level to show for logging.
+    friendly_name:TED
     info: See https://docs.python.org/2/library/logging.html#levels
     default: DEBUG
-  - name: SECRET
-    friendly_name: Shhhh
+  - name: TED
+    friendly_name:TED
     info: This is an secret option
     type: secret
     default: not secret though
