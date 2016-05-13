@@ -11,6 +11,6 @@ config:
     friendly_name: TED
     info: This is an secret option
     type: secret
-    default: not secret though
+    default: 
 screenshots:
   - screenshot: resources/screenshot1.png
